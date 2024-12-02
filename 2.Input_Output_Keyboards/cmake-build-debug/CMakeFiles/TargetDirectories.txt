@@ -1,0 +1,3 @@
+/Users/admin/Desktop/C++ Project/2.Input_Output_Keyboards/cmake-build-debug/CMakeFiles/2_Input_Output_Keyboards.dir
+/Users/admin/Desktop/C++ Project/2.Input_Output_Keyboards/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/C++ Project/2.Input_Output_Keyboards/cmake-build-debug/CMakeFiles/rebuild_cache.dir
