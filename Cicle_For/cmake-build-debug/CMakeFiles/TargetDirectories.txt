@@ -1,0 +1,3 @@
+/Users/admin/Desktop/C++ Project/Learning_C++/Cicle_For/cmake-build-debug/CMakeFiles/Cicle_For.dir
+/Users/admin/Desktop/C++ Project/Learning_C++/Cicle_For/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/C++ Project/Learning_C++/Cicle_For/cmake-build-debug/CMakeFiles/rebuild_cache.dir
